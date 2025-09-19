@@ -1,0 +1,2 @@
+# MaximunRange example
+観測できる値の幅を指定してセンサーデータを16bitで読み取るサンプルコード

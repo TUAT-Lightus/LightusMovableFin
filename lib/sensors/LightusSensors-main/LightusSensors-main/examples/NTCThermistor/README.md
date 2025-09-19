@@ -1,0 +1,2 @@
+# NTCThermistor example
+NTCサーミスタのデータを取得するサンプルコード
